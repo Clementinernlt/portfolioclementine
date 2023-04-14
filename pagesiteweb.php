@@ -24,7 +24,6 @@
             <a href="index.html"><h5 class="right"><img src="maison.png" alt="" class="maison" /></h5></a>
             <h2>Mes créations de site web</h2>
             <a href="https://artbowl6.wordpress.com/"><h3> ➜ Site web Wordpress : Artbowl</h3></a>
-            <img src="bzeh.png" alt="">
             <a href=""><h3> ➜ Site web Bootstrap : Fakeflix</h3></a>
 
 
